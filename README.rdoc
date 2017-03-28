@@ -3,6 +3,10 @@
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
+A simple app to understand the principles behind on how to set up a mailer. 
+
+
+
 Things you may want to cover:
 
 * Ruby version
